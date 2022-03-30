@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Sanjeev😎</h1>
-<h3> A passionate Data Scientist.</h3>
+<h3> A passionate enthusiastic Data Scientist.</h3>
 
-
+<img src="https://github.com/ErSanjeevGupta/Practice__Test/blob/main/1647784394050.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ersanjeevgupta&label=Profile%20views&color=0e75b6&style=flat" alt="ersanjeevgupta" /> </p>
 
