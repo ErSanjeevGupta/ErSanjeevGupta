@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Sanjeev😎</h1>
 <!--<p><a href="https://ersanjeevgupta.github.io/">ersanjeevgupta.github.io !</a></p> -->
-<h3> A passionate enthusiastic Data Scientist.</h3>
+<h3> A passionate enthusiastic DevOps Engineer.</h3>
 
 <!--<img src="https://github.com/ErSanjeevGupta/Practice__Test/blob/main/1647784394050.jpg"> -->
 
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Mini Project**
 
-- 🌱 I’m currently learning **Data Science |SQL |Django**
+- 🌱 I’m currently learning **Linux|Python| Shell Scripting|Git|Githhub|Jenkins|Maven|Docker|Ansible|AWS|Cloud Computing|Wordpress|Blogging**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ErSanjeevGupta](https://github.com/ErSanjeevGupta)
 
